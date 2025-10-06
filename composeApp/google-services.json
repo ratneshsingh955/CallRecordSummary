@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131599089641",
+    "project_id": "callrecordsummary",
+    "storage_bucket": "callrecordsummary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131599089641:android:7b37a204500c12e1d29578",
+        "android_client_info": {
+          "package_name": "com.ratnesh.callrecordsummary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--7i5YkdAPkgBXXSeW2K9f6CkQdrE_eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

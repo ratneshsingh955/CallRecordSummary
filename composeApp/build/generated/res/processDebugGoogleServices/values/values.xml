@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">131599089641</string>
+    <string name="google_api_key" translatable="false">AIzaSyC--7i5YkdAPkgBXXSeW2K9f6CkQdrE_eE</string>
+    <string name="google_app_id" translatable="false">1:131599089641:android:7b37a204500c12e1d29578</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC--7i5YkdAPkgBXXSeW2K9f6CkQdrE_eE</string>
+    <string name="google_storage_bucket" translatable="false">callrecordsummary.firebasestorage.app</string>
+    <string name="project_id" translatable="false">callrecordsummary</string>
+</resources>
