@@ -3696,23 +3696,6 @@
                     }
                 },
                 {
-                    "source": "/Users/ratnesh.singh/CallRecordSummary/composeApp/src/androidMain/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "54",
-                        "endOffsets": "66"
-                    },
-                    "to": {
-                        "startLines": "127",
-                        "startColumns": "4",
-                        "startOffsets": "7977",
-                        "endColumns": "54",
-                        "endOffsets": "8027"
-                    }
-                },
-                {
                     "source": "/Users/ratnesh.singh/.gradle/caches/8.14.3/transforms/0834da6b7c1167738975b4dc341f3b99/transformed/customview-poolingcontainer-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -3727,6 +3710,23 @@
                         "startOffsets": "5821,6132",
                         "endColumns": "53,66",
                         "endOffsets": "5870,6194"
+                    }
+                },
+                {
+                    "source": "/Users/ratnesh.singh/CallRecordSummaryKmp/composeApp/build/generated/res/processDebugGoogleServices/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,137,241,350,470,579",
+                        "endColumns": "81,103,108,119,108,77",
+                        "endOffsets": "132,236,345,465,574,652"
+                    },
+                    "to": {
+                        "startLines": "163,164,165,166,167,233",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "11549,11631,11735,11844,11964,16742",
+                        "endColumns": "81,103,108,119,108,77",
+                        "endOffsets": "11626,11730,11839,11959,12068,16815"
                     }
                 },
                 {
@@ -3865,6 +3865,23 @@
                         "startOffsets": "7214",
                         "endColumns": "42",
                         "endOffsets": "7252"
+                    }
+                },
+                {
+                    "source": "/Users/ratnesh.singh/CallRecordSummaryKmp/composeApp/src/androidMain/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "54",
+                        "endOffsets": "66"
+                    },
+                    "to": {
+                        "startLines": "127",
+                        "startColumns": "4",
+                        "startOffsets": "7977",
+                        "endColumns": "54",
+                        "endOffsets": "8027"
                     }
                 },
                 {
@@ -4026,23 +4043,6 @@
                         "endLines": "122,170,171,172,173,174,175,176,177,178,181,182,183,184,185,186,187,188,189,190,191,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,259,262",
                         "endColumns": "72,87,85,80,83,68,64,82,105,85,13,53,68,60,68,88,94,73,96,92,97,13,90,87,95,97,63,67,86,93,66,71,71,100,108,75,68,47,65,63,73,56,56,71,49,53,70,70,69,68,57,75,70,73,85,49,69,64,12,12",
                         "endOffsets": "7653,12268,12354,12435,12519,12588,12653,12736,12842,12928,13048,13102,13171,13232,13301,13390,13485,13559,13656,13749,13847,13996,14087,14175,14271,14369,14433,14501,14588,14682,14749,14821,14893,14994,15103,15179,15248,15296,15362,15426,15500,15557,15614,15686,15736,15790,15861,15932,16002,16071,16129,16205,16276,16350,16436,16486,16556,16621,18329,18482"
-                    }
-                },
-                {
-                    "source": "/Users/ratnesh.singh/CallRecordSummary/composeApp/build/generated/res/processDebugGoogleServices/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,137,241,350,470,579",
-                        "endColumns": "81,103,108,119,108,77",
-                        "endOffsets": "132,236,345,465,574,652"
-                    },
-                    "to": {
-                        "startLines": "163,164,165,166,167,233",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "11549,11631,11735,11844,11964,16742",
-                        "endColumns": "81,103,108,119,108,77",
-                        "endOffsets": "11626,11730,11839,11959,12068,16815"
                     }
                 }
             ]
